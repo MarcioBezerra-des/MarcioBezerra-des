@@ -1,4 +1,4 @@
-# Olá, eu sou marcio bezerra  👋
+# Olá, eu sou Marcio Bezerra  👋
 **`Full-Stack Developer`**
 
 Me chamo Marcio Bezerra Cavalcanti Junior, tenho 20 anos e moro em Cuiabá, Mato Grosso. Estou no 4º Semestre de Ciência da Computação na UNIC - Beira rio(Universidade de Cuiabá).
