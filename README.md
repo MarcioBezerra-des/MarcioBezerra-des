@@ -9,7 +9,9 @@ Meu objetivo é atuar na área de **Tecnologia da Informação**, utilizando meu
 
 # Tech Stack
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioBezerra-des&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBezerra-des&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioBezerra-des&show_icons=true&theme=radical) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBezerra-des&size_weight=0.5&count_weight=0.5)
 
 ### Languages
 
