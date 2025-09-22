@@ -4,14 +4,13 @@
 Me chamo Marcio Bezerra Cavalcanti Junior, tenho 20 anos e moro em Cuiabá, Mato Grosso. Estou no 4º Semestre de Ciência da Computação na UNIC - Beira rio(Universidade de Cuiabá).
 Meu objetivo é atuar na área de **Tecnologia da Informação**, utilizando meus conhecimentos para desenvolver soluções eficientes, otimizar processos e colaborar diretamente para o alcance dos resultados da organização. 
 
-[![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m4rcio.bezerra/)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/marcio-bezerra-a61b5b2b6/)
 
 # Tech Stack
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioBezerra-des&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBezerra-des&hide=javascript,html)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBezerra-des&size_weight=0.5&count_weight=0.5)
 ### Languages
 
 <img 
