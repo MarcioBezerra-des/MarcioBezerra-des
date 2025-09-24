@@ -89,11 +89,19 @@ Meu objetivo é atuar na área de **Tecnologia da Informação**, utilizando meu
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="Github" 
+    title="Github"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Vscode" 
+    title="Vscode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
 <!--
 **MarcioBezerra-des/MarcioBezerra-des** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
