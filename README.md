@@ -9,14 +9,16 @@ Meu objetivo é atuar na área de **Tecnologia da Informação**, utilizando meu
 
 <br clear="both">
 
+### Connect with me!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-bezerra-a61b5b2b6/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5566999753238)
+[![E-mail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:marciobcavalcantijunior@gmail.com)
 
 # Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcioBezerra-des&show_icons=true&theme=transparent" alt="Estatísticas do GitHub" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBezerra-des&layout=compact" alt="Linguagens Mais Usadas" width="318">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcioBezerra-des&show_icons=true&theme=transparent" alt="Estatísticas do GitHub" height="250">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBezerra-des&layout=compact" alt="Linguagens Mais Usadas" width="418">
 </div>
 
 ### Languages
