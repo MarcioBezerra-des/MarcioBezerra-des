@@ -13,8 +13,12 @@ Meu objetivo é atuar na área de **Tecnologia da Informação**, utilizando meu
 
 # Tech Stack
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioBezerra-des&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBezerra-des&size_weight=0.5&count_weight=0.5)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcioBezerra-des&show_icons=true&theme=transparent" alt="Estatísticas do GitHub" height="300">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBezerra-des&layout=compact" alt="Linguagens Mais Usadas" width="418">
+</div>
+
+#
 
 ### Languages
 
@@ -68,6 +72,8 @@ Meu objetivo é atuar na área de **Tecnologia da Informação**, utilizando meu
 />
 <br/>
 
+#
+
 ### Database
 
 <img 
@@ -79,6 +85,8 @@ Meu objetivo é atuar na área de **Tecnologia da Informação**, utilizando meu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 <br/>
+
+#
 
 ### Tools
 
