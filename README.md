@@ -9,7 +9,8 @@ Meu objetivo é atuar na área de **Tecnologia da Informação**, utilizando meu
 
 <br clear="both">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/marcio-bezerra-a61b5b2b6/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-bezerra-a61b5b2b6/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+556699975-3238)
 
 # Tech Stack
 
@@ -17,8 +18,6 @@ Meu objetivo é atuar na área de **Tecnologia da Informação**, utilizando meu
   <img src="https://github-readme-stats.vercel.app/api?username=MarcioBezerra-des&show_icons=true&theme=transparent" alt="Estatísticas do GitHub" height="300">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBezerra-des&layout=compact" alt="Linguagens Mais Usadas" width="418">
 </div>
-
-#
 
 ### Languages
 
@@ -72,8 +71,6 @@ Meu objetivo é atuar na área de **Tecnologia da Informação**, utilizando meu
 />
 <br/>
 
-#
-
 ### Database
 
 <img 
@@ -85,8 +82,6 @@ Meu objetivo é atuar na área de **Tecnologia da Informação**, utilizando meu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 <br/>
-
-#
 
 ### Tools
 
