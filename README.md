@@ -26,37 +26,32 @@ Meu objetivo é atuar na área de **Tecnologia da Informação**, utilizando meu
 <tr >
   <td valign="top" style="border: none; padding: 0; padding-right: 24px;">
     <div>
-      <strong>| Languages</strong>
-      <br>
-      <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-      <img alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-      <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-      <img alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-      <img alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-      <img alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+      <h5><strong>| Languages</strong></h5>
+      <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+      <img alt="PHP" title="PHP" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+      <img alt="Python" title="Python" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+      <img alt="Java" title="Java" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+      <img alt="HTML" title="HTML" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+      <img alt="CSS" title="CSS" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     </div>
-    <br>
     <div>
-      <strong>| Database</strong>
-      <br>
-      <img alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+      <h5><strong>| Database</strong></h5>
+      <img alt="MySQL" title="MySQL" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     </div>
-    <br>
     <div>
-      <strong>| Tools</strong>
-      <br>
-      <img alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-      <img alt="Github" title="Github" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-      <img alt="Vscode" title="Vscode" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+      <h5><strong>| Tools</strong></h5>
+      <img alt="Git" title="Git" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+      <img alt="Github" title="Github" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+      <img alt="Vscode" title="Vscode" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     </div>
   </td>
    <td valign="top" align="center" style="border: none; padding: 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MarcioBezerra-des&show_icons=true&theme=transparent" alt="Estatísticas do GitHub" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=MarcioBezerra-des&show_icons=true&theme=transparent" alt="Estatísticas do GitHub" height="200">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBezerra-des&layout=compact&hide_border=true" alt="Linguagens Mais Usadas" width="356">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBezerra-des&layout=compact&hide_border=true" alt="Linguagens Mais Usadas" width="475">
   </td>
   <td>
-    
+    <strong></strong>
   </td>
 </tr>
 </table>
