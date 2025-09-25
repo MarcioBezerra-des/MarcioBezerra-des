@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&color=FFFFFF&background=0000001D&center=true&vCenter=true&width=500&height=100&lines=---+Welcome+to+my+profile!+---" alt="Typing SVG">
+  </a>
+</div>
+
 # Olá, eu sou Marcio Bezerra  👋
 **`Full-Stack Developer`**
 
