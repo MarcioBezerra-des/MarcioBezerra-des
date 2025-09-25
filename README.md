@@ -26,7 +26,7 @@ Meu objetivo é atuar na área de **Tecnologia da Informação**, utilizando meu
 <tr >
   <td valign="top" style="border: none; padding: 0; padding-right: 24px;">
     <div>
-      <h5><strong>| Languages</strong></h5>
+      <h4><strong>| Languages</strong></h4>
       <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
       <img alt="PHP" title="PHP" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
       <img alt="Python" title="Python" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -35,11 +35,11 @@ Meu objetivo é atuar na área de **Tecnologia da Informação**, utilizando meu
       <img alt="CSS" title="CSS" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     </div>
     <div>
-      <h5><strong>| Database</strong></h5>
+      <h4><strong>| Database</strong></h4>
       <img alt="MySQL" title="MySQL" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     </div>
     <div>
-      <h5><strong>| Tools</strong></h5>
+      <h4><strong>| Tools</strong></h4>
       <img alt="Git" title="Git" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
       <img alt="Github" title="Github" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
       <img alt="Vscode" title="Vscode" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
