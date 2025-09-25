@@ -103,6 +103,10 @@ Meu objetivo é atuar na área de **Tecnologia da Informação**, utilizando meu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
+</br>
+# 
+
+<img src="https://i.pinimg.com/originals/b0/28/2b/b0282b4561a88ab1885bf936aac3d147.gif">
 <!--
 **MarcioBezerra-des/MarcioBezerra-des** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
