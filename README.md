@@ -1,14 +1,15 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&color=FFFFFF&background=0000001D&center=true&vCenter=true&width=650&height=100&lines=---+Welcome+my+name+is+Marcio+Bezerra+|+Full+-+Stack+Developer!+---" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&color=FFFFFF&background=0000001D&center=true&vCenter=true&width=400&height=70&lines=---+Welcome+to+my+code+universe!+---" alt="Typing SVG">
   </a>
 </div>
 
+<div align="center" width="650" height="100">
+  <img src="https://github.com/MarcioBezerra-des/MarcioBezerra-des/blob/master/C%C3%B3pia%20de%20Simple%20Technology%20LinkedIn%20Banner.gif" alt="Banner do Perfil">
+</div>
 
 # Olá, eu sou Marcio Bezerra  👋
 [![Full-Stack Developer](https://img.shields.io/badge/Full‑Stack_Developer-2F81F7?style=for-the-badge)](https://github.com/MarcioBezerra-des)
-
-<img src="https://cdn.wallpapersafari.com/30/0/n0HOqk.gif" alt="GIF Animado" align="right" height="150" alt="Banner Image">
 
 Me chamo **Marcio Bezerra Cavalcanti Junior**, tenho 20 anos e moro em Cuiabá, Mato Grosso. Estou no 4º Semestre de Ciência da Computação na UNIC - Beira rio (Universidade de Cuiabá).
 
@@ -16,7 +17,8 @@ Meu objetivo é atuar na área de **Tecnologia da Informação**, utilizando meu
 
 <br clear="both">
 
-### Connect with me!
+Connect with me!
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-bezerra-a61b5b2b6/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5566999753238)
 [![E-mail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:marciobcavalcantijunior@gmail.com)
@@ -57,9 +59,9 @@ Meu objetivo é atuar na área de **Tecnologia da Informação**, utilizando meu
  <td valign="top" align="center" style="border: none; padding: 0;">
   <div align="center" width="358">
     <h4><strong>🚀 Learning</strong></h4>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img alt="Java" title="Java" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+      <img alt="postgresql" title="Postgresql" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+      <img alt="Spring" title="Spring" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
     <br>
 </td>
 </tr>
