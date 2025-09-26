@@ -27,43 +27,42 @@ Connect with me!
 
 <table style="border-collapse: collapse; border-spacing: 0;">
 <tr >
-  <td valign="top" style="border: none; padding: 0; padding-right: 24px;">
+  <td valign="top" width="600" style="border: none; padding: 0; padding-right: 24px;">
     <div>
-      <h4><strong> 💻 Languages</strong></h4>
-      <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-      <img alt="PHP" title="PHP" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-      <img alt="Python" title="Python" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-      <img alt="Java" title="Java" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-      <img alt="HTML" title="HTML" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-      <img alt="CSS" title="CSS" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+      <h3><strong> 💻 Languages</strong></h3>
+      <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+      <img alt="PHP" title="PHP" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+      <img alt="Python" title="Python" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+      <img alt="Java" title="Java" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+      <img alt="HTML" title="HTML" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+      <img alt="CSS" title="CSS" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     </div>
     <br>
     <div>
-      <h4><strong>🗄️ Database</strong></h4>
-      <img alt="MySQL" title="MySQL" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+      <h3><strong>🗄️ Database</strong></h3>
+      <img alt="MySQL" title="MySQL" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     </div>
     <br>
     <div>
-     <h4><strong>🛠️ Tools</strong></h4>
-      <img alt="Git" title="Git" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-      <img alt="Github" title="Github" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-      <img alt="Vscode" title="Vscode" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+     <h3><strong>🛠️ Tools</strong></h3>
+      <img alt="Git" title="Git" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+      <img alt="Github" title="Github" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+      <img alt="Vscode" title="Vscode" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     </div>
-  </td>
-   <td valign="top" align="center" style="border: none; padding: 0;">
-     <h4><strong>📊 Status </strong></h4>
-    <img src="https://github-readme-stats.vercel.app/api?username=MarcioBezerra-des&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="150">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBezerra-des&layout=compact&hide_border=true&theme=dark" alt="Linguagens Mais Usadas" width="358">
-  </td>
- <td valign="top" align="center" style="border: none; padding: 0;">
-  <div align="center" width="358">
-    <h4><strong>🚀 Learning</strong></h4>
-      <img alt="Java" title="Java" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-      <img alt="postgresql" title="Postgresql" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-      <img alt="Spring" title="Spring" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+    <div>
+    <h3><strong>🚀 Learning</strong></h3>
+      <img alt="Java" title="Java" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+      <img alt="postgresql" title="Postgresql" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+      <img alt="Spring" title="Spring" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
     <br>
-</td>
+  </td>
+   <td valign="top" width="500" align="center" style="border: none; padding: 0;">
+     <h3><strong>📊 Status </strong></h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=MarcioBezerra-des&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="450">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBezerra-des&layout=compact&hide_border=true&theme=dark" alt="Linguagens Mais Usadas" width="450">
+  </td>
 </tr>
 </table>
 
