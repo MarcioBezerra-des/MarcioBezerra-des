@@ -25,9 +25,9 @@ Connect with me!
 
 # Tech Stack
 
-<table style="border-collapse: collapse; border-spacing: 0;">
+<table align="center" style="border-collapse: collapse; border-spacing: 0;">
 <tr >
-  <td valign="top" width="600" style="border: none; padding: 0; padding-right: 24px;">
+  <td valign="top" width="400" style="border: none; padding: 0; padding-right: 24px;">
     <div>
       <h3><strong> 💻 Languages</strong></h3>
       <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -59,9 +59,9 @@ Connect with me!
   </td>
    <td valign="top" width="500" align="center" style="border: none; padding: 0;">
      <h3><strong>📊 Status </strong></h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=MarcioBezerra-des&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="450">
+    <img src="https://github-readme-stats.vercel.app/api?username=MarcioBezerra-des&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="500">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBezerra-des&layout=compact&hide_border=true&theme=dark" alt="Linguagens Mais Usadas" width="450">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBezerra-des&layout=compact&hide_border=true&theme=dark" alt="Linguagens Mais Usadas" width="500">
   </td>
 </tr>
 </table>
