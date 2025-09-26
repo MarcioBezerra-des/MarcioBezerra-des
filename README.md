@@ -1,13 +1,14 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&color=FFFFFF&background=0000001D&center=true&vCenter=true&width=500&height=100&lines=---+Welcome+to+my+profile!+---" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&color=FFFFFF&background=0000001D&center=true&vCenter=true&width=650&height=100&lines=---+Welcome+my+name+is+Marcio+Bezerra+|+Full+-+Stack+Developer!+---" alt="Typing SVG">
   </a>
 </div>
 
-# Olá, eu sou Marcio Bezerra  👋
-**`Full-Stack Developer`**
 
-<img src="https://cdn.wallpapersafari.com/30/0/n0HOqk.gif" alt="GIF Animado" align="right" height="150">
+# Olá, eu sou Marcio Bezerra  👋
+[![Full-Stack Developer](https://img.shields.io/badge/Full‑Stack_Developer-2F81F7?style=for-the-badge)](https://github.com/MarcioBezerra-des)
+
+<img src="https://cdn.wallpapersafari.com/30/0/n0HOqk.gif" alt="GIF Animado" align="right" height="150" alt="Banner Image">
 
 Me chamo **Marcio Bezerra Cavalcanti Junior**, tenho 20 anos e moro em Cuiabá, Mato Grosso. Estou no 4º Semestre de Ciência da Computação na UNIC - Beira rio (Universidade de Cuiabá).
 
@@ -26,7 +27,7 @@ Meu objetivo é atuar na área de **Tecnologia da Informação**, utilizando meu
 <tr >
   <td valign="top" style="border: none; padding: 0; padding-right: 24px;">
     <div>
-      <h4><strong>| Languages</strong></h4>
+      <h4><strong> 💻 Languages</strong></h4>
       <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
       <img alt="PHP" title="PHP" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
       <img alt="Python" title="Python" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -34,25 +35,33 @@ Meu objetivo é atuar na área de **Tecnologia da Informação**, utilizando meu
       <img alt="HTML" title="HTML" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
       <img alt="CSS" title="CSS" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     </div>
+    <br>
     <div>
-      <h4><strong>| Database</strong></h4>
+      <h4><strong>🗄️ Database</strong></h4>
       <img alt="MySQL" title="MySQL" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     </div>
+    <br>
     <div>
-      <h4><strong>| Tools</strong></h4>
+     <h4><strong>🛠️ Tools</strong></h4>
       <img alt="Git" title="Git" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
       <img alt="Github" title="Github" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
       <img alt="Vscode" title="Vscode" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     </div>
   </td>
    <td valign="top" align="center" style="border: none; padding: 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MarcioBezerra-des&show_icons=true&theme=transparent" alt="Estatísticas do GitHub" height="200">
+     <h4><strong>📊 Status </strong></h4>
+    <img src="https://github-readme-stats.vercel.app/api?username=MarcioBezerra-des&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="150">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBezerra-des&layout=compact&hide_border=true" alt="Linguagens Mais Usadas" width="475">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBezerra-des&layout=compact&hide_border=true&theme=dark" alt="Linguagens Mais Usadas" width="358">
   </td>
-  <td>
-    <strong></strong>
-  </td>
+ <td valign="top" align="center" style="border: none; padding: 0;">
+  <div align="center" width="358">
+    <h4><strong>🚀 Learning</strong></h4>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <br>
+</td>
 </tr>
 </table>
 
