@@ -73,7 +73,3 @@ Connect with me!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcioBezerra-des/MarcioBezerra-des/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcioBezerra-des/MarcioBezerra-des/output/github-contribution-grid-snake.svg">
 </picture>
-<br>
-<div align="center">
-  <img src="https://github.com/MarcioBezerra-des/MarcioBezerra-des/blob/master/darius-anton-coffee-01.gif" width="700" height="350" alt="Banner do Perfil">
-</div>
