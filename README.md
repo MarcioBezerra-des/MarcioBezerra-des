@@ -59,9 +59,9 @@ Connect with me!
   </td>
    <td valign="top" width="500" align="center" style="border: none; padding: 0;">
      <h3><strong>📊 Status </strong></h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=MarcioBezerra-des&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="500">
+    <img src="https://github-readme-stats.vercel.app/api?username=MarcioBezerra-des&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="500">
     <br> <!-- tokyonight / dark -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBezerra-des&layout=compact&hide_border=true&theme=dark" alt="Linguagens Mais Usadas" width="500">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBezerra-des&layout=compact&hide_border=true&theme=tokyonight" alt="Linguagens Mais Usadas" width="500">
   </td>
 </tr>
 </table>
